@@ -40,8 +40,8 @@
             "@id": "https://hardik12-amnex.github.io/MPDVC_Context/credentialId",
             "@type": "schema:Text"
         },
-        "lType": {
-            "@id": "https://hardik12-amnex.github.io/MPDVC_Context/lType",
+        "assetType": {
+            "@id": "https://hardik12-amnex.github.io/MPDVC_Context/assetType",
             "@type": "schema:Text"
         },
         "qrUrl": {
