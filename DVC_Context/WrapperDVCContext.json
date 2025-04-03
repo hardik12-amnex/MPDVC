@@ -31,6 +31,14 @@
             "@id": "https://hardik12-amnex.github.io/DVC_Context/farmerPhoto",
             "@type": "schema:URL"
         },
+        "numberOfLandsOwnByFarmer": {
+            "@id": "https://hardik12-amnex.github.io/DVC_Context/numberOfLandsOwnByFarmer",
+            "@type": "schema:URL"
+        },
+        "farmerCategory": {
+            "@id": "https://hardik12-amnex.github.io/DVC_Context/farmerCategory",
+            "@type": "schema:URL"
+        },
       "landDvcDetails": {
             "@id": "https://hardik12-amnex.github.io/MPDVC_Context/landDvcDetails",
             "@type": "schema:ItemList",
